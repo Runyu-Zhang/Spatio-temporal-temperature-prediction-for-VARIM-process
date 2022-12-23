@@ -9,7 +9,7 @@ Department of Mechanical Engineering, The University of Texas at Dallas
 *Corresponding author: dong.qian@utdallas.edu
 
 - The dataset is intended for personal/research use. The dataset should not be distributed without
-content of the author and owner. All rights reserved.
+consent of the author and owner. All rights reserved.
 
 Dataset location:
 "Results_2m_0.56m_0.0683m": https://utdallas.box.com/s/b0xw9rslgmsjz439zumcs4qj5z9r0fzp, password: "varim-utd"
